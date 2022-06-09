@@ -1,0 +1,15 @@
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.csproj.AssemblyReference.cache
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.AssemblyInfoInputs.cache
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.AssemblyInfo.cs
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.csproj.CoreCompileInputs.cache
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\bin\Debug\net6.0\Distance Calculator.exe
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\bin\Debug\net6.0\Distance Calculator.deps.json
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\bin\Debug\net6.0\Distance Calculator.runtimeconfig.json
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\bin\Debug\net6.0\Distance Calculator.dll
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\bin\Debug\net6.0\Distance Calculator.pdb
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.dll
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\refint\Distance Calculator.dll
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.pdb
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\Distance Calculator.genruntimeconfig.cache
+F:\CS CODE\CS20\CS20 Second Language\Distance Calculator\obj\Debug\net6.0\ref\Distance Calculator.dll
